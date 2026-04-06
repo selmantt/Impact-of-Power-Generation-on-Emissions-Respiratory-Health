@@ -21,11 +21,11 @@ Fossil-fuel power plants are a primary source of airborne pollutants linked to c
 
 ## Project Structure
 
-'''
+```
 ├── main.ipynb          # Full analysis notebook
 ├── Project Report.pdf  # Detailed write-up with findings and references
 └── README.md
-'''
+```
 
 
 ## Usage
